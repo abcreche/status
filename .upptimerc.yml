@@ -14,10 +14,12 @@ status-website:
   logoUrl: https://abcreche.com/img/logo-inline.svg
   name: ABCreche
   introTitle: "ABCreche System monitoring"
-  introMessage: TBD
+  introMessage: "Monitoring de l'application ABCreche. Le 'response time' peut paraître élevé car le ping est effectué depuis des serveurs situés sur le continent Américain."
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://abcreche.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
