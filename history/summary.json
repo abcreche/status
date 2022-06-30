@@ -4,19 +4,19 @@
     "url": "https://abcreche.com",
     "icon": "https://favicons.githubusercontent.com/abcreche.com",
     "slug": "ab-creche",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.97%",
     "time": 698,
-    "timeDay": 395,
-    "timeWeek": 537,
+    "timeDay": 420,
+    "timeWeek": 543,
     "timeMonth": 658,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2022-06-30": 79,
+      "2022-06-30": 91,
       "2022-06-21": 25
     }
   }
